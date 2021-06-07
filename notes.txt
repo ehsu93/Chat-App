@@ -1,0 +1,17 @@
+Chat app features:
+
+
+    MERN stack
+    Mongodb documents - 
+        Split the app up into rooms
+        Rooms can have at least 2 people
+        Room creator can 
+    -Encrypted messages
+    -Chat history
+    -Friends list
+    -Searching and adding friends
+    -Registering
+
+For access control 
+-bit to determine which roles can see this user
+-bit to determine which role a user is
